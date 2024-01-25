@@ -106,7 +106,7 @@
 @media only screen and  (max-width:400px) {
 
     .container{
-        width: 330px;
+        width: 95vw;
         margin: auto;
      
         border-radius: 12px;
@@ -116,7 +116,7 @@
     
     .top-bar input{
         display: flex;
-        width: 220px;
+        width: 60vw;
         height: 78px;
         background: #ebfffc;
         border: none;
